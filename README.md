@@ -18,4 +18,4 @@ Bachelor's degree, Software engineering
 * SQL (Stepik)
 <hr>
 
-[![SaSniyKex's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fktrcfylh900&)](https://github.com/SaSniyKex/leetcode-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/fktrcfylh900)](https://leetcode.com/fktrcfylh900)
