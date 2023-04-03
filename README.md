@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**SaSniyKex/SaSniyKex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Who am I? 🤔
+My name is Kalmykow Aleksandr Michailovich and I'm at the beginning of my ML career. I'm fond of it and have been improving my skills for the past year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 🎓
+MIREA — Russian Technological University, 2026 <br>
+Bachelor's degree, Software engineering
+
+## Skills ⚒️
+*Python, C++
+*Sklearn, Matplotlib, Seaborn, PyTorch
+*SQL, git
+
+## Projects 👨‍💻
+* Currently we (me and my friend) are making text classificator for texts from Russian state exam(EGE) with implementation of transformers.
+
+Native Python
+## Courses 📚
+*Algorithms 3.0(Yandex)
+*SQL (Stepik)
