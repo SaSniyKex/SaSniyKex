@@ -19,3 +19,6 @@ Native Python
 ## Courses 📚
 *Algorithms 3.0(Yandex)
 *SQL (Stepik)
+<hr>
+
+[![SaSniyKex's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fktrcfylh900&)](https://github.com/SaSniyKex/leetcode-stats)
