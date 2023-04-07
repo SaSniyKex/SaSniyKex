@@ -6,8 +6,7 @@ MIREA — Russian Technological University, 2026 <br>
 Bachelor's degree, Software engineering
 
 ### Languages and libraries
-* Python
-*[![PyTorch](https://img.shields.io/badge/PyTorch-blue?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-blue?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit-blue?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=pydata)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-blue?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org/)
