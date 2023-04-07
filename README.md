@@ -13,9 +13,6 @@ Bachelor's degree, Software engineering
 [![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)](https://en.cppreference.com/w/cpp/compiler_support)
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=00008B)](https://www.postgresql.org/)
 
-## Projects 👨‍💻
-* Currently we (me and my friend) are making text classificator for texts from Russian state exam(EGE) with implementation of transformers.
-  * PyTorch, pandas
 ## Courses 📚
 * Algorithms 3.0(Yandex)
 * SQL (Stepik)
