@@ -15,7 +15,8 @@ Bachelor's degree, Software engineering
 
 
 ## Projects
-* Me and my friend are working on a text classifier for Russian State Exam(EGE) with implementation of transformers.
+* Me and my friend created a photo classificator for the analogue of a Pinterest. It tagged them to ease the search process. I helped with <br>
+researching and deploying it on a dedicated server. 
 
 ## Courses 📚
 * Algorithms 3.0(Yandex)
